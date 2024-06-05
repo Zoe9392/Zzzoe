@@ -1,2 +1,2 @@
 # Zzzoe
-This is a repo with my personal projects with description and understanding. 
+Part I: Re-learn --- Data Structures and Algorithms from Fall 2022 Data Structures lectured by Prof.Josh Hug.

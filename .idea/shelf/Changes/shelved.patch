@@ -1,0 +1,67 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"de4645c4-62cc-4eee-9452-00a7c0bcd308\" name=\"Changes\" comment=\"Rough Notes in week1\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2fiqt3ItTOaKRcZ15aAZLUX0ymZ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"jdk.selected.JAVA_MODULE\": \"temurin-17\",\r\n    \"last_opened_file_path\": \"C:/Users/Administrator/cs61b/fa22-s778/proj0\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"project.structure.last.edited\": \"Libraries\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"ChangesTree.GroupingKeys\": [\r\n    ],\r\n    \"com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File\": [\r\n      \"JAVA\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"DogProblem\" type=\"Java Scratch\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DogProblem\" />\r\n      <option name=\"SCRATCH_FILE_URL\" value=\"file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Java Scratch.DogProblem\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"de4645c4-62cc-4eee-9452-00a7c0bcd308\" name=\"Changes\" comment=\"\" />\r\n      <created>1714294459050</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1714294459050</updated>\r\n      <workItem from=\"1714294460829\" duration=\"2588000\" />\r\n      <workItem from=\"1714311305199\" duration=\"3135000\" />\r\n      <workItem from=\"1714316234104\" duration=\"528000\" />\r\n      <workItem from=\"1714401544774\" duration=\"1838000\" />\r\n      <workItem from=\"1714983872969\" duration=\"1625000\" />\r\n      <workItem from=\"1715057136282\" duration=\"422000\" />\r\n      <workItem from=\"1715150440849\" duration=\"4178000\" />\r\n      <workItem from=\"1715157696661\" duration=\"1243000\" />\r\n      <workItem from=\"1715433441221\" duration=\"750000\" />\r\n      <workItem from=\"1715753296265\" duration=\"5811000\" />\r\n      <workItem from=\"1715763557157\" duration=\"670000\" />\r\n      <workItem from=\"1715766237757\" duration=\"3015000\" />\r\n      <workItem from=\"1715780479950\" duration=\"3082000\" />\r\n      <workItem from=\"1715787488094\" duration=\"566000\" />\r\n      <workItem from=\"1715833623414\" duration=\"666000\" />\r\n      <workItem from=\"1715840130734\" duration=\"2051000\" />\r\n      <workItem from=\"1715843374937\" duration=\"1065000\" />\r\n      <workItem from=\"1715852677932\" duration=\"660000\" />\r\n      <workItem from=\"1715872263111\" duration=\"6483000\" />\r\n      <workItem from=\"1715918342263\" duration=\"1266000\" />\r\n      <workItem from=\"1715931249298\" duration=\"6189000\" />\r\n      <workItem from=\"1715950959067\" duration=\"2457000\" />\r\n      <workItem from=\"1715960916797\" duration=\"4857000\" />\r\n      <workItem from=\"1716350506814\" duration=\"772000\" />\r\n      <workItem from=\"1716353861419\" duration=\"591000\" />\r\n      <workItem from=\"1716361174660\" duration=\"3505000\" />\r\n      <workItem from=\"1716364836996\" duration=\"1850000\" />\r\n      <workItem from=\"1716366769271\" duration=\"5900000\" />\r\n      <workItem from=\"1716435315927\" duration=\"6756000\" />\r\n      <workItem from=\"1716534129806\" duration=\"2738000\" />\r\n      <workItem from=\"1716539072757\" duration=\"3467000\" />\r\n      <workItem from=\"1716622696526\" duration=\"4908000\" />\r\n      <workItem from=\"1716638805884\" duration=\"1007000\" />\r\n      <workItem from=\"1716648075690\" duration=\"3489000\" />\r\n      <workItem from=\"1716712541084\" duration=\"2277000\" />\r\n      <workItem from=\"1717073237816\" duration=\"2574000\" />\r\n      <workItem from=\"1717145264509\" duration=\"4521000\" />\r\n      <workItem from=\"1717250069566\" duration=\"1189000\" />\r\n      <workItem from=\"1717400787395\" duration=\"571000\" />\r\n      <workItem from=\"1717513067630\" duration=\"440000\" />\r\n      <workItem from=\"1717557161518\" duration=\"2154000\" />\r\n      <workItem from=\"1717571519183\" duration=\"397000\" />\r\n      <workItem from=\"1717580451974\" duration=\"2791000\" />\r\n      <workItem from=\"1717593364735\" duration=\"889000\" />\r\n      <workItem from=\"1717597734658\" duration=\"2420000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Rough Notes in week1\">\r\n      <created>1717599904486</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717599904486</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Rough Notes in week1\">\r\n      <created>1717600173009</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717600173009</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Rough Notes in week1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Rough Notes in week1\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 55e159816c3ea6e68fa9056b67b963f48bfb7eae)
++++ b/.idea/workspace.xml	(date 1717600710000)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="Rough Notes in week1" />
++    <list default="true" id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="w1">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -21,8 +23,8 @@
+   <component name="Git.Settings">
+     <option name="PUSH_TAGS">
+       <GitPushTagMode>
+-        <option name="argument" value="--tags" />
+-        <option name="title" value="All" />
++        <option name="argument" value="--follow-tags" />
++        <option name="title" value="Current Branch" />
+       </GitPushTagMode>
+     </option>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+@@ -131,7 +133,7 @@
+       <workItem from="1717571519183" duration="397000" />
+       <workItem from="1717580451974" duration="2791000" />
+       <workItem from="1717593364735" duration="889000" />
+-      <workItem from="1717597734658" duration="2420000" />
++      <workItem from="1717597734658" duration="2949000" />
+     </task>
+     <task id="LOCAL-00001" summary="Rough Notes in week1">
+       <created>1717599904486</created>
+@@ -147,7 +149,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1717600173009</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="w1">
++      <created>1717600189211</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1717600189211</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -193,6 +202,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Rough Notes in week1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Rough Notes in week1" />
++    <MESSAGE value="w1" />
++    <option name="LAST_COMMIT_MESSAGE" value="w1" />
+   </component>
+ </project>
+\ No newline at end of file

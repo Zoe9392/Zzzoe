@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="w1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fiqt3ItTOaKRcZ15aAZLUX0ymZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/cs61b/fa22-s778/proj0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="DogProblem" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogProblem" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Java Scratch.DogProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="" />
+      <created>1714294459050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714294459050</updated>
+      <workItem from="1714294460829" duration="2588000" />
+      <workItem from="1714311305199" duration="3135000" />
+      <workItem from="1714316234104" duration="528000" />
+      <workItem from="1714401544774" duration="1838000" />
+      <workItem from="1714983872969" duration="1625000" />
+      <workItem from="1715057136282" duration="422000" />
+      <workItem from="1715150440849" duration="4178000" />
+      <workItem from="1715157696661" duration="1243000" />
+      <workItem from="1715433441221" duration="750000" />
+      <workItem from="1715753296265" duration="5811000" />
+      <workItem from="1715763557157" duration="670000" />
+      <workItem from="1715766237757" duration="3015000" />
+      <workItem from="1715780479950" duration="3082000" />
+      <workItem from="1715787488094" duration="566000" />
+      <workItem from="1715833623414" duration="666000" />
+      <workItem from="1715840130734" duration="2051000" />
+      <workItem from="1715843374937" duration="1065000" />
+      <workItem from="1715852677932" duration="660000" />
+      <workItem from="1715872263111" duration="6483000" />
+      <workItem from="1715918342263" duration="1266000" />
+      <workItem from="1715931249298" duration="6189000" />
+      <workItem from="1715950959067" duration="2457000" />
+      <workItem from="1715960916797" duration="4857000" />
+      <workItem from="1716350506814" duration="772000" />
+      <workItem from="1716353861419" duration="591000" />
+      <workItem from="1716361174660" duration="3505000" />
+      <workItem from="1716364836996" duration="1850000" />
+      <workItem from="1716366769271" duration="5900000" />
+      <workItem from="1716435315927" duration="6756000" />
+      <workItem from="1716534129806" duration="2738000" />
+      <workItem from="1716539072757" duration="3467000" />
+      <workItem from="1716622696526" duration="4908000" />
+      <workItem from="1716638805884" duration="1007000" />
+      <workItem from="1716648075690" duration="3489000" />
+      <workItem from="1716712541084" duration="2277000" />
+      <workItem from="1717073237816" duration="2574000" />
+      <workItem from="1717145264509" duration="4521000" />
+      <workItem from="1717250069566" duration="1189000" />
+      <workItem from="1717400787395" duration="571000" />
+      <workItem from="1717513067630" duration="440000" />
+      <workItem from="1717557161518" duration="2154000" />
+      <workItem from="1717571519183" duration="397000" />
+      <workItem from="1717580451974" duration="2791000" />
+      <workItem from="1717593364735" duration="889000" />
+      <workItem from="1717597734658" duration="2420000" />
+      <workItem from="1717601374616" duration="606000" />
+    </task>
+    <task id="LOCAL-00001" summary="Rough Notes in week1">
+      <created>1717599904486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717599904486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Rough Notes in week1">
+      <created>1717600173009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717600173009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rough Notes in week1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rough Notes in week1" />
+  </component>
+</project>

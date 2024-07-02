@@ -84,13 +84,34 @@ public class IntList {
             p.rest = next; // connect
             p = p.rest;
         }
-
-
-
-
-
     }
 
+    /** Destructively reverse an IntList with a pointer */
+    public static IntList reverse(IntList L) {
+        IntList p = L;
+        IntList node = null;
+        // Implementation Here Later
+        return L;
+    }
+
+    /** The method below is the official solution to problem in ExamPrep03 */
+    public static IntList[] partitions(IntList lst, int k){
+        IntList[] array = new IntList[k];
+        int index = 0;
+        /* The 1st difficult point */
+        IntList L = reverse(lst);
+        while(L != null ) {
+        /* WARNING: Difficult Chunks */
+            IntList prevAtIndex = array[index];
+            IntList next = L.rest;
+            array[index] = L;
+            array[index].rest = prevAtIndex;
+            L = next;
+            index = (index + 1)% array.length;
+        /* WARNING: Difficult Chunks */
+        }
+        return array;
+    }
 
     public static void main(String[] args) {
         IntList L = new IntList(5,null);

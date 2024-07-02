@@ -7,6 +7,9 @@
     <SOURCES>
       <root url="file://$USER_HOME$/cs61b/library-fa22" />
     </SOURCES>
+    <excluded>
+      <root url="jar://$USER_HOME$/cs61b/library-fa22/ucb.jar!/" />
+    </excluded>
     <jarDirectory url="file://$USER_HOME$/cs61b/library-fa22" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/cs61b/library-fa22" recursive="false" type="SOURCES" />
   </library>

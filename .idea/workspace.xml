@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="w1">
+      <change afterPath="$PROJECT_DIR$/Discussion Exercises/src/ExamPrep4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotatingSLList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VengefulList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/library_fa22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/library_fa22.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discussion Exercises/src/Discussion3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Discussion Exercises/src/Discussion3N4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discussion Exercises/src/ExamPrep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Discussion Exercises/src/ExamPrep3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,7 +62,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/cs61b/fa22-s778/proj0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/cs61b/fa22-s778/lab02&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,7 +79,21 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SLList">
+    <configuration name="ExamPrep4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPrep4" />
+      <module name="Discussion Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SLList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLList" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DogProblem" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DogProblem" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -77,6 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SLList" />
+        <item itemvalue="Application.ExamPrep4" />
         <item itemvalue="Java Scratch.DogProblem" />
       </list>
     </recent_temporary>
@@ -135,6 +163,37 @@
       <workItem from="1717593364735" duration="889000" />
       <workItem from="1717597734658" duration="2420000" />
       <workItem from="1717601374616" duration="606000" />
+      <workItem from="1717658692264" duration="1109000" />
+      <workItem from="1717730703792" duration="338000" />
+      <workItem from="1717743530977" duration="2440000" />
+      <workItem from="1717855745728" duration="8055000" />
+      <workItem from="1718001365570" duration="4663000" />
+      <workItem from="1718027573623" duration="4461000" />
+      <workItem from="1718090512758" duration="593000" />
+      <workItem from="1718107388355" duration="1186000" />
+      <workItem from="1718165134387" duration="1330000" />
+      <workItem from="1718356222105" duration="594000" />
+      <workItem from="1718421218341" duration="1190000" />
+      <workItem from="1718432052073" duration="594000" />
+      <workItem from="1718442531523" duration="595000" />
+      <workItem from="1718507002840" duration="594000" />
+      <workItem from="1718508879765" duration="594000" />
+      <workItem from="1718520376591" duration="594000" />
+      <workItem from="1718596888875" duration="2760000" />
+      <workItem from="1718607522702" duration="5127000" />
+      <workItem from="1718614398521" duration="3076000" />
+      <workItem from="1718626636202" duration="393000" />
+      <workItem from="1718692209974" duration="1188000" />
+      <workItem from="1718713455489" duration="2486000" />
+      <workItem from="1718766545332" duration="870000" />
+      <workItem from="1718854154218" duration="4645000" />
+      <workItem from="1718865911696" duration="10868000" />
+      <workItem from="1718901196321" duration="2773000" />
+      <workItem from="1718942490853" duration="2139000" />
+      <workItem from="1719132922281" duration="1257000" />
+      <workItem from="1719302744915" duration="1629000" />
+      <workItem from="1719477716578" duration="2520000" />
+      <workItem from="1719820544347" duration="7538000" />
     </task>
     <task id="LOCAL-00001" summary="Rough Notes in week1">
       <created>1717599904486</created>

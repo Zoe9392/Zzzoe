@@ -4,13 +4,14 @@
  * IntList -> SLList; IntNode -> Sentinel Node
  * */
 
-/* */
-public class SLList {
+/* The Generic List part; if the IntNode was declared, the data type int can not be modified */
+/* Initialize it once at the top */
+public class SLList<Item> implements List61B<Item>{
+    // The content in the angle brace here is a placeholder
     /* Change the "public" instance variable into private
     * ?: access control;
     * Potential problem: Infinite loop --- the "next" part points back to itself
-    * */
-
+    */
     private int size;
     /* Sentinel node works as a placeholder. It will never be modified */
     // private IntNode first;
@@ -27,16 +28,16 @@ public class SLList {
         sentinel.next = new IntNode(x, null);
         size = 1;
     }
-    private static class IntNode {
-        public int item;
-        public IntNode next;
-
-        public IntNode(int i, IntNode n ) {
+    /* Changes: IntNode --> StuffNode */
+    private /* static */ class StuffNode {
+        // make it be private and static
+        public Item item;
+        public StuffNode next;
+        public StuffNode(Item i, StuffNode n ) {
             item = i;
             next = n;
         }
     }
-
     /* Adds x into the front of SLList */
     public void addFirst(int y){
         sentinel.next = new IntNode(y,sentinel.next); size += 1;
@@ -81,6 +82,26 @@ public class SLList {
         }
         return 1 + sizeHelper(p.next);
     } */
+
+    @Override
+    public Item removeLast() {
+        Item X = get(size() - 1);
+        IntNode p = sentinel.next;
+        while (p != null) {
+            if (p.next == null) {
+                p = null;
+            }
+            p = p.next;
+        }
+        size -= 1;
+        return X;
+    }
+    public Item removeFirst() {
+        Item X = getFirst();
+        sentinel.next = sentinel.next.next;
+        size -= 1;
+        return X;
+    }
 
     public static void main(String[] args){
 

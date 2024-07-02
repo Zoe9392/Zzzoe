@@ -5,13 +5,16 @@ public class ExamPrep3 {
         IntList[] array = new IntList[k];
         int index = 0;
         IntList L = lst;
+        /* Added lines by myself; try the block of each length */
+        if ((L.sizeRe() % k) != 0){
+            
+        }
         while ( L != null) {
-
-
 
         }
         return array;
     }
+    /** The official solution is in the IntList class */
 
 
 }

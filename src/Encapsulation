@@ -1,9 +1,0 @@
-
-The current problems? (when building large problems/projects ; the enemy is complexity)
-The COMPLEXITY[IMPORTANT for large projects]
-Tools for managing the complexity ?
- ---> Hierarchical abstraction
-    Creat layers of abstraction with clear abstraction barriers
-
- ---> "Design for changes"
-    Organize problems around projects; HIDE INFORMATION others don't need; Objects decide how things are done

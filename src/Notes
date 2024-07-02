@@ -1,0 +1,28 @@
+Key Concepts and Developments:
+The current problems? (when building large problems/projects ; the enemy is complexity)
+The COMPLEXITY[IMPORTANT for large projects]
+Tools for managing the complexity ?
+ ---> Hierarchical abstraction
+    Creat layers of abstraction with clear abstraction barriers
+
+ ---> "Design for changes"
+    Organize problems around projects; HIDE INFORMATION others don't need; Objects decide how things are done
+
+***** -------- *****
+Modules and Encapsulation
+Module: A set of methods that work together as a whole to perform some task or set of related tasks.
+    A module is said to be ENCAPSULATED if its implementation is COMPLETELY HIDDEN, and it can be accessed only
+  through a documented interface. E.g.: cell
+
+Abstraction Barriers:
+(Proj1B: Encapsulation, great for java)
+Note the keywords: private, static, concerned with inheritance
+
+***** --------- *****
+Implementation inheritance Breaks Encapsulation:
+example: Dog and Verbose Dog
+*****----****
+Type checking and Casting
+Compile-Time Types and Expressions
+***** -------******
+Higher Order Functions 

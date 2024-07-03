@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="w1">
-      <change afterPath="$PROJECT_DIR$/Discussion Exercises/src/ExamPrep4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List61B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotatingSLList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VengefulList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/library_fa22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/library_fa22.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discussion Exercises/src/Discussion3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Discussion Exercises/src/Discussion3N4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discussion Exercises/src/ExamPrep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Discussion Exercises/src/ExamPrep3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HoFDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HoFDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntUnaryFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntUnaryFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TenX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TenX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +55,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/cs61b/fa22-s778/lab02&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/PROJ/Zzzoe&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -79,10 +72,17 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.SLList">
+  <component name="RunManager" selected="Application.HoFDemo">
     <configuration name="ExamPrep4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamPrep4" />
       <module name="Discussion Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoFDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoFDemo" />
+      <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HoFDemo" />
         <item itemvalue="Application.SLList" />
         <item itemvalue="Application.ExamPrep4" />
         <item itemvalue="Java Scratch.DogProblem" />
@@ -194,6 +195,7 @@
       <workItem from="1719302744915" duration="1629000" />
       <workItem from="1719477716578" duration="2520000" />
       <workItem from="1719820544347" duration="7538000" />
+      <workItem from="1719990694597" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Rough Notes in week1">
       <created>1717599904486</created>

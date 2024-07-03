@@ -1,4 +1,5 @@
-Key Concepts and Developments:
+
+ENCAPSULATOIN:
 The current problems? (when building large problems/projects ; the enemy is complexity)
 The COMPLEXITY[IMPORTANT for large projects]
 Tools for managing the complexity ?
@@ -25,4 +26,23 @@ example: Dog and Verbose Dog
 Type checking and Casting
 Compile-Time Types and Expressions
 ***** -------******
-Higher Order Functions 
+Higher Order Functions
+***********************************------------------------***********************************
+implementation inheritance cheatsheet:
+VengefulList extends SLList means a VengefulList is-an SLList. Inherits all members
+---> Variables, methods, nested classes
+---> Not constructors
+---> Subclass constructor must invoke superclass constructor first
+---> Use super to invoke overridden superclass methods and constructors
+
+Invocation of overridden methods follow two simple rules:
+---> Compiler plays it safe and only let us do things allowed by STATIC type
+---> For overridden methods the actual method invoked is based on  DYNAMIC type of invoking expression
+---> Can us casting to overrule compiler type checking
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 
 public class ExamPrep4 {
-    /** */
+    /* Hint: The diagonal of the matrix will not be inserted with values */
     public static void fillGrid(int[]LL, int[] UR, int[][] S) {
         int N = S.length;
         int kL, kR;

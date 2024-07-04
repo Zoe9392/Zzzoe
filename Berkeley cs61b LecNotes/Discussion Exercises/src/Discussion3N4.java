@@ -13,8 +13,8 @@ public class Discussion3N4 {
         }
         return returnArray;
     }
-
     // Codes above are the unchecked version
+    /** Scope, static, and more */
     interface Vehicle{
         void revEngine();
     }
@@ -79,5 +79,5 @@ public class Discussion3N4 {
     }
 }
 /** Problems for Discussion 4 are about the java visualizer ; how box-pointer diagram goes in
- *  java visualizer; static type and others
- * */
+    java visualizer; static type and others
+ */

@@ -1,5 +1,5 @@
-
-ENCAPSULATOIN:
+*******************************************   NOTES    *******************************************************
+Encapsulation:
 The current problems? (when building large problems/projects ; the enemy is complexity)
 The COMPLEXITY[IMPORTANT for large projects]
 Tools for managing the complexity ?
@@ -39,6 +39,18 @@ Invocation of overridden methods follow two simple rules:
 ---> Compiler plays it safe and only let us do things allowed by STATIC type
 ---> For overridden methods the actual method invoked is based on  DYNAMIC type of invoking expression
 ---> Can us casting to overrule compiler type checking
+
+************************************---------------------------------------****************************
+The Rules:
+---> Compiler allows memory box to hold any subtype
+---> Compiler allows calls based on static type
+---> Overridden non-static methods are selected at run time based on dynamic type
+    --> Everything else is based on static type , including overloaded methods.
+*********************************************-----------------------------------***************************
+The biggest idea: Subtype Polymorphism
+polymorphism: "providing a single interface to entities of different types"
+(Note: Subtype Polymorphism v.s. HoF)
+
 
 
 

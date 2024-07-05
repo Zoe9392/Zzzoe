@@ -1,3 +1,3 @@
 # Zzzoe
-PartI: UCBerkeley Learning and Projects 
+PartI: University Learning and Projects 
 PartII: 

@@ -50,6 +50,13 @@ The Rules:
 The biggest idea: Subtype Polymorphism
 polymorphism: "providing a single interface to entities of different types"
 (Note: Subtype Polymorphism v.s. HoF)
+**********************************************-----------------------------------*********************
+The built-in interface for comparison
+
+OurComparable ----> Comparable (built-in interface) ----> Comparator (built-in interface )
+           
+
+
 
 
 

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="w1">
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/113AbstractAlgebra/Aleksandra Utiralova Official Notes for 113.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/.idea/libraries/library_fa22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/BoardLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/BoardWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/CustomizableMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/GUISource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/Side.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/TestAtLeastOneMoveExists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/TestEmptySpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/TestMaxTileExists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/TestModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/TestUpOnly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/game2048/Tile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/.idea/libraries/library_fa22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Board$AllTileIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/BoardLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/BoardWidget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/CustomizableMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/GUISource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/InputSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Side.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/TestAtLeastOneMoveExists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/TestEmptySpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/TestMaxTileExists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/TestModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/TestUpOnly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/TestUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/game2048/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/out/production/proj0/proj0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/2048-GAME-proj0/proj0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/.ok_history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/.ok_messages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/.ok_storage.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/.ok_storage.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/.ok_storage.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ants_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ants_plans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ants_strategies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ants_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/colony-drawing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/ants_diagram.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_bodyguard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_fire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_harvester.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_hungry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_longthrower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_ninja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_queen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_scary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_scuba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_shortthrower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_slow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_tank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_thrower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/ant_wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/diagram/images/bee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/enchant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_bodyguard.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_fire.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_harvester.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_hungry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_laser.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_longthrower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_ninja.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_queen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_scary.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_scuba.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_shortthrower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_slow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_tank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_thrower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/ant_wall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/bee.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/insects/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/main-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/new-ants-gui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/submitted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/sweetalert.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/sweetalert.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/swirl_pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/ground/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/ground/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/ground/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/ground/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/sky/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/sky/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/assets/tiles/sky/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/graphics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/gui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_bodyguard.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_fire.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_harvester.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_hungry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_laser.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_longthrower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_ninja.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_queen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_scary.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_scuba.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_shortthrower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_slow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_stun.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_tank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_thrower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ant_wall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ants_vs_bees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/bee.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/boss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/gui_explanation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/hornet.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/new_ants_gui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/ninjabee.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/remover.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/tunnel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/img/wasp.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/proj03.ok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/state.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/00.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/EC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/optional1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/tests/optional2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/ucb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/ANTS proj3-61a/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/libraries/Lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/libraries/library_fa22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/shelf/Changes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/shelf/Changes/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/DSA in Java --- Fall 2022 Berkeley CS61B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/Discussion Exercises/Discussion Exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/Discussion Exercises/src/Discussion3N4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/Discussion Exercises/src/ExamPrep1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/Discussion Exercises/src/ExamPrep3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/Discussion Exercises/src/ExamPrep4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/Discussion Exercises/src/mystery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/Alist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/HoFDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/IntList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/IntNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/IntUnaryFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/List61B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/RotatingSLList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/SLList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/TenX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/TestSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/src/VengefulList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/Berkeley cs61b LecNotes/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec1-stat134-f23 (1) (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec1-stat134-f23 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec10 -stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec11-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec12-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec13-stat134-f23-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec14-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec15-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec17(no16)-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec18-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec19-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec2-stat134-f23-1 (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec20-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec21-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec22-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec23-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec24-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec25-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec26-stat134-f23-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec27-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec28-stat134-f23 .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec29 -stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec3-stat134-f23 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec30-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec31-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec32-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec34(nolec33)-stat134-f23-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec35-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec36-stat134-f23-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec37-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec38-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec39-stat134–f23 -2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec4-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec40-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec41-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec5-stat134-f23-.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec6-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec7-stat134-f23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec8-stat134-f23-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University Nutrition/probability134/Lec9-stat134-f23.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fiqt3ItTOaKRcZ15aAZLUX0ymZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/PROJ/Zzzoe/Berkeley cs61b LecNotes/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PROJ\Zzzoe\Berkeley cs61b LecNotes\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HoFDemo">
+    <configuration name="ExamPrep4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPrep4" />
+      <module name="Discussion Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoFDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoFDemo" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SLList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLList" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogProblem" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogProblem" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HoFDemo" />
+        <item itemvalue="Application.SLList" />
+        <item itemvalue="Application.ExamPrep4" />
+        <item itemvalue="Java Scratch.DogProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de4645c4-62cc-4eee-9452-00a7c0bcd308" name="Changes" comment="" />
+      <created>1714294459050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714294459050</updated>
+      <workItem from="1714294460829" duration="2588000" />
+      <workItem from="1714311305199" duration="3135000" />
+      <workItem from="1714316234104" duration="528000" />
+      <workItem from="1714401544774" duration="1838000" />
+      <workItem from="1714983872969" duration="1625000" />
+      <workItem from="1715057136282" duration="422000" />
+      <workItem from="1715150440849" duration="4178000" />
+      <workItem from="1715157696661" duration="1243000" />
+      <workItem from="1715433441221" duration="750000" />
+      <workItem from="1715753296265" duration="5811000" />
+      <workItem from="1715763557157" duration="670000" />
+      <workItem from="1715766237757" duration="3015000" />
+      <workItem from="1715780479950" duration="3082000" />
+      <workItem from="1715787488094" duration="566000" />
+      <workItem from="1715833623414" duration="666000" />
+      <workItem from="1715840130734" duration="2051000" />
+      <workItem from="1715843374937" duration="1065000" />
+      <workItem from="1715852677932" duration="660000" />
+      <workItem from="1715872263111" duration="6483000" />
+      <workItem from="1715918342263" duration="1266000" />
+      <workItem from="1715931249298" duration="6189000" />
+      <workItem from="1715950959067" duration="2457000" />
+      <workItem from="1715960916797" duration="4857000" />
+      <workItem from="1716350506814" duration="772000" />
+      <workItem from="1716353861419" duration="591000" />
+      <workItem from="1716361174660" duration="3505000" />
+      <workItem from="1716364836996" duration="1850000" />
+      <workItem from="1716366769271" duration="5900000" />
+      <workItem from="1716435315927" duration="6756000" />
+      <workItem from="1716534129806" duration="2738000" />
+      <workItem from="1716539072757" duration="3467000" />
+      <workItem from="1716622696526" duration="4908000" />
+      <workItem from="1716638805884" duration="1007000" />
+      <workItem from="1716648075690" duration="3489000" />
+      <workItem from="1716712541084" duration="2277000" />
+      <workItem from="1717073237816" duration="2574000" />
+      <workItem from="1717145264509" duration="4521000" />
+      <workItem from="1717250069566" duration="1189000" />
+      <workItem from="1717400787395" duration="571000" />
+      <workItem from="1717513067630" duration="440000" />
+      <workItem from="1717557161518" duration="2154000" />
+      <workItem from="1717571519183" duration="397000" />
+      <workItem from="1717580451974" duration="2791000" />
+      <workItem from="1717593364735" duration="889000" />
+      <workItem from="1717597734658" duration="2420000" />
+      <workItem from="1717601374616" duration="606000" />
+      <workItem from="1717658692264" duration="1109000" />
+      <workItem from="1717730703792" duration="338000" />
+      <workItem from="1717743530977" duration="2440000" />
+      <workItem from="1717855745728" duration="8055000" />
+      <workItem from="1718001365570" duration="4663000" />
+      <workItem from="1718027573623" duration="4461000" />
+      <workItem from="1718090512758" duration="593000" />
+      <workItem from="1718107388355" duration="1186000" />
+      <workItem from="1718165134387" duration="1330000" />
+      <workItem from="1718356222105" duration="594000" />
+      <workItem from="1718421218341" duration="1190000" />
+      <workItem from="1718432052073" duration="594000" />
+      <workItem from="1718442531523" duration="595000" />
+      <workItem from="1718507002840" duration="594000" />
+      <workItem from="1718508879765" duration="594000" />
+      <workItem from="1718520376591" duration="594000" />
+      <workItem from="1718596888875" duration="2760000" />
+      <workItem from="1718607522702" duration="5127000" />
+      <workItem from="1718614398521" duration="3076000" />
+      <workItem from="1718626636202" duration="393000" />
+      <workItem from="1718692209974" duration="1188000" />
+      <workItem from="1718713455489" duration="2486000" />
+      <workItem from="1718766545332" duration="870000" />
+      <workItem from="1718854154218" duration="4645000" />
+      <workItem from="1718865911696" duration="10868000" />
+      <workItem from="1718901196321" duration="2773000" />
+      <workItem from="1718942490853" duration="2139000" />
+      <workItem from="1719132922281" duration="1257000" />
+      <workItem from="1719302744915" duration="1629000" />
+      <workItem from="1719477716578" duration="2520000" />
+      <workItem from="1719820544347" duration="7538000" />
+      <workItem from="1719990694597" duration="49000" />
+      <workItem from="1719991636120" duration="63000" />
+      <workItem from="1719991708968" duration="4938000" />
+      <workItem from="1720078216856" duration="2811000" />
+      <workItem from="1720081940264" duration="6659000" />
+      <workItem from="1720167228439" duration="7408000" />
+      <workItem from="1720422500619" duration="628000" />
+      <workItem from="1720445205306" duration="1248000" />
+      <workItem from="1720512042532" duration="3060000" />
+      <workItem from="1720596231356" duration="3228000" />
+    </task>
+    <task id="LOCAL-00001" summary="Rough Notes in week1">
+      <created>1717599904486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717599904486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Rough Notes in week1">
+      <created>1717600173009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717600173009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rough Notes in week1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rough Notes in week1" />
+  </component>
+</project>

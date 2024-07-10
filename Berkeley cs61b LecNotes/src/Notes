@@ -51,10 +51,20 @@ The biggest idea: Subtype Polymorphism
 polymorphism: "providing a single interface to entities of different types"
 (Note: Subtype Polymorphism v.s. HoF)
 **********************************************-----------------------------------*********************
-The built-in interface for comparison
+The built-in interface for comparison [Lecture 10]
+We need to compare natural order of objects/ Strings
+    OurComparable (an interface built upon our needs)
+    ----> Comparable (built-in interface)
+    ----> Comparator (built-in interface )
 
-OurComparable ----> Comparable (built-in interface) ----> Comparator (built-in interface )
-           
+!!! Tasks !!! : write a program that prints a string representation of the larger of two objects
+according to some specific comparison function.
+Way1: HOF
+Way2: Subtype Polymorphism
+Arrays.sort() --- Return Type: NA ; Time Complexity: O(NlogN); Space Complexity: O(1)
+
+
+
 
 
 

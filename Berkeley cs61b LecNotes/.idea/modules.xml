@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Discussion Exercises/Discussion Exercises.iml" filepath="$PROJECT_DIR$/Discussion Exercises/Discussion Exercises.iml" />
-      <module fileurl="file://$APPLICATION_CONFIG_DIR$/Dog/Dog.iml" filepath="$APPLICATION_CONFIG_DIR$/Dog/Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Dog/Dog.iml" filepath="$PROJECT_DIR$/src/Dog/Dog.iml" />
       <module fileurl="file://$APPLICATION_CONFIG_DIR$/Math Exercises/Math Exercises.iml" filepath="$APPLICATION_CONFIG_DIR$/Math Exercises/Math Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>

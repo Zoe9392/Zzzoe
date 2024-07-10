@@ -24,7 +24,7 @@ public class ExamPrep1 {
              b.x = temp.x;
              b.y = temp.y;
          }
-         public /*static*/void main (String[] args) {
+         public /*static*/  void main (String[] args) {
             Foo foobar = new Foo(10, 20);
             Foo baz = new Foo(30, 40);
             // The foobar and baz were initiated in main scope

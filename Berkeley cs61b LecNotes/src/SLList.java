@@ -6,7 +6,7 @@
 
 /* The Generic List part; if the IntNode was declared, the data type int can not be modified */
 /* Initialize it once at the top */
-public class SLList<Item> implements List61B<Item>{
+public class SLList<Item>  implements List61B<Item> {
     // The content in the angle brace here is a placeholder
     /* Change the "public" instance variable into private
     * ?: access control;
@@ -83,7 +83,7 @@ public class SLList<Item> implements List61B<Item>{
         return 1 + sizeHelper(p.next);
     } */
 
-    @Override
+   @Override
     public Item removeLast() {
         Item X = get(size() - 1);
         IntNode p = sentinel.next;

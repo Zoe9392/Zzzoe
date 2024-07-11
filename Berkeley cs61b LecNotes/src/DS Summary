@@ -1,0 +1,22 @@
+Linear Data Structure:
+1) List: ArrayList, Singly Linked List, Doubly Linked List ( in the lecture)
+2) Deque: Array Deque, Linked List Deque (project 1)
+
+! Note !:
+Java provides a built-in List interface and several implementations
+"simple name": ArrayList (HAVE to import packages )
+"canonical name": java.util.ArrayList
+
+--- LIST in java and python (comparison) :
+Java Version:                                              Python Version:
+List<Integer> L = new ArrayList<>();    ||
+
+--- SET in java and python: no duplicates, no actual orders
+JAVA                                     ||       PYTHON:
+Set<String> S = new HashSet<>();         ||          S = set()
+S.add("Tokyo");                          ||          S.add("Tokyo")
+S.add("Beijing");                        ||          S.add("Beijing")
+S.add("Lagos");                          ||          S.add("Lagos")
+
+
+

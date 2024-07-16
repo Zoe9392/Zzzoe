@@ -3,7 +3,7 @@ import java.util.Set;
 import java.util.Iterator;
 
 /** Skeletons of ArraySet with functionality */
-public class ArraySet<T> {
+public class ArraySet<T> implements Iterable<T> {
     private T[] items;
     private int size;
     /* Constructor of ArraySet */
@@ -37,13 +37,57 @@ public class ArraySet<T> {
     public int size() {
         return 0;
     }
-    /*  Returns an iterator into ME: The return type is an Iterator. And the name of the method
-     *   
+    /**  Returns an iterator into ME: The return type is an Iterator. And the name of the method
+     *
      */
     public Iterator<T> iterator() {
+        return new ArraySetIterator();
+    }
+    private class ArraySetIterator implements Iterator<T> {
+        /* This Iterator class needs constructor and instance variables */
+        private int wizPos;
+
+        public ArraySetIterator() {
+            wizPos = 0;
+        }
+
+        public boolean hasNext() {
+            if (wizPos < items.length - 1 ) {
+                return true;
+            }
+            return false;
+        }
+
+        public T next() {
+            T currItem = items[wizPos];
+            wizPos ++;
+            return currItem;
+        }
 
     }
 
+    public String toString() {
+        String returnString = "{";
+        for (int i = 0; i < size() - 1; i++) {
+            returnString += items[i].toString();
+            returnString += ", ";
+        }
+        returnString += items[size() - 1]; // Strings are immutable
+        returnString += "}";
+        return returnString;
+    }
+    /** A python-like way to do build a string */
+    public String toString2(){
+        StringBuilder returnStr = new StringBuilder ("{");
+        for(int i = 0; i < size() - 1; i ++){
+            returnStr.append(items[i].toString());
+            returnStr.append(",");
+        }
+        returnStr.append(items[size() - 1]);
+        returnStr.append("}");
+        return returnStr.toString();
+
+    }
 
 
     public static void main(String[] args) {
@@ -55,7 +99,7 @@ public class ArraySet<T> {
         S2.add(null);
         System.out.println(S2.contains(null));
 
-        /** Iterable Stuff */
+        /** Iterable Stuff: seen as enhanced for-loop?  */
         Set<Integer> javaSet = new HashSet<>();
         javaSet.add(1);
         javaSet.add(4);
@@ -68,13 +112,20 @@ public class ArraySet<T> {
 
 }
 /**
- * Exception
- *      e.g.: add(T) method above
- *
- * Iterable
- *      e.g.: would like to iterate all
- *      iteration function: the enhanced for-loop  ----->  Iterator
- *
- * toString
- *
+   Exception
+        e.g.: add(T) method above
+
+   Iterable
+        e.g.: would like to iterate all
+        iteration function: the enhanced for-loop  ----->  Iterator
+
+   Iterable(a java built-in interface): should be declared to tell java that this class has an iterator method otherwise java
+        does not know that there is an iterator method
+
+   Set | Collection | Iterable
+
+   Objects and toString() (note: "memory location")
+
+   String Builder
+
  */

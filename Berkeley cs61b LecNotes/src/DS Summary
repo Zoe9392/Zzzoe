@@ -18,5 +18,10 @@ S.add("Tokyo");                          ||          S.add("Tokyo")
 S.add("Beijing");                        ||          S.add("Beijing")
 S.add("Lagos");                          ||          S.add("Lagos")
 
+------ ******* --------- ******* ------- ********* --------- ********* ---------
+Objects
+All classes are hyponyms of Object.
+
+
 
 

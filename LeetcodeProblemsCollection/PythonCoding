@@ -57,9 +57,10 @@ class canJump:
 #   --->   the current spot is 0 and the 0 can't be skipped 
 #   ---> (ii): AVOID O(N^2) time consumption by mutating the last element
 #   ---> in lst to be FALSE if you can jump to the end of the nums at the step
-#   ---> (iii): the first spot at lst will always be TRUE  
+#   ---> (iii): the first spot at lst will always be TRUE 
+#   ---> (iv):  
 # Attempt 4: It is EXTREMELY HARD to solve in this way starting at index 0. 
-#   --->  
+#   --->  Starts with the goal 
 # 
 # 
 #  

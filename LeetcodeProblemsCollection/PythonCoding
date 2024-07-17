@@ -30,9 +30,18 @@ class canJump:
         return lst[endIndex] == True 
 
     def Attempt4(self,nums):
-        targetIndex = len(nums) - 1
+        currPos = len(nums) - 1
+        targetIndex = 0
+        # Starts with the goal position 
+        for i in range(len(nums)-2,-1,-1):
+            # nums[i] + i means the maximum position you can ump to when 
+            # standing at position i; if nums[i] + i >= startIndex, it 
+            # means that the current position at currPos can be achieved 
+            # when standing at index i    
+            if nums[i] + i >= currPos:
+                currPos == i
+        return currPos == targetIndex        
         
-
 # Attempt 1:  use recursions 
 #   ---> Maximum Recursion Limit or Time Limit Exceeds 
 #   ---> MAXIMUM JUMP LENGTH doesn't mean the EXACT length of jumping 
@@ -48,7 +57,12 @@ class canJump:
 #   --->   the current spot is 0 and the 0 can't be skipped 
 #   ---> (ii): AVOID O(N^2) time consumption by mutating the last element
 #   ---> in lst to be FALSE if you can jump to the end of the nums at the step
-#   ---> (iii): the first spot at lst will always be TRUE   
+#   ---> (iii): the first spot at lst will always be TRUE  
+# Attempt 4: It is EXTREMELY HARD to solve in this way starting at index 0. 
+#   --->  
+# 
+# 
+#  
 
 
 

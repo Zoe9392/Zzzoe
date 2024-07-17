@@ -62,6 +62,7 @@ class canJump:
 # Attempt 4: It is EXTREMELY HARD to solve in this way starting at index 0. 
 
 """
+Name: Jump Game II Level: Medium No.45
 You are given a 0-indexed array of integers nums of length n. 
 You are initially positioned at nums[0].
 Each element nums[i] represents the maximum length of a forward jump 
@@ -71,6 +72,10 @@ any nums[i + j] where:
     i + j < n
 Return the minimum number of jumps to reach nums[n - 1]. 
 The test cases are generated such that you can reach nums[n - 1].
+Constraints: 
+    it is guaranteed that you can reach nums[n-1]
+    0 <= nums[i] <= 1000
+    1 <= nums.length <= 1000
 """
 class canJump2:
     def Attempt1(self,nums):

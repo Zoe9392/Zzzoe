@@ -1,0 +1,58 @@
+"""
+Name: Jump Game  No.55 Level: Medium 
+
+You are given an integer array nums. 
+You are initially positioned at the array's first index, and each 
+element in the array represents your maximum jump length at that position.
+Return true if you can reach the last index, or false otherwise.
+
+Examples:
+Input: [2,4,2,0,1], [2,0,0], [0,1,0], [3,2,1,0,4]
+Output: True, True, False, False 
+"""
+class canJump: 
+    "nums: a list (in python data structure) of non-negative numbers"
+    def Attempt3(self,nums):
+        " Attempt 3 solution to the problem [correct version] " 
+        lst = [False for i in range(len(nums))] # space comlexity: O(N)
+        endIndex = len(nums) - 1
+        lst[0] = True 
+        for currIndex in range(len(nums)):
+            steps = nums[currIndex]
+            if lst[currIndex] == False:
+                break # must-lose condition
+            elif currIndex + steps >= endIndex:
+                lst[endIndex] = True
+                break # must-win condition
+            else:
+                for nextIndex in range (currIndex + 1, currIndex + steps + 1):
+                    lst[nextIndex] = True  
+        return lst[endIndex] == True 
+
+    def Attempt4(self,nums):
+        targetIndex = len(nums) - 1
+        
+
+# Attempt 1:  use recursions 
+#   ---> Maximum Recursion Limit or Time Limit Exceeds 
+#   ---> MAXIMUM JUMP LENGTH doesn't mean the EXACT length of jumping 
+# Attempt 2: while-loop + indicators via brute force 
+#   ---> indicators taken: currVal:nums[i] & currSum: currSum-=nums[i]
+#   ---> weakness: too many edge cases can not be covered  
+# CHANGE WAY OF THINKING (Start at the back side):
+# IDEAS: (from solution board)
+# Attempt 3: If I started at index 0, searching for next available spots.
+#   ---> nested for-loops should be BANNED or SIGNIFICANTLY IMPROVED
+#   ---> Accepted! Results are not optimal
+#   ---> (i): current spot is FALSE at lst, you can not Jump. For example:
+#   --->   the current spot is 0 and the 0 can't be skipped 
+#   ---> (ii): AVOID O(N^2) time consumption by mutating the last element
+#   ---> in lst to be FALSE if you can jump to the end of the nums at the step
+#   ---> (iii): the first spot at lst will always be TRUE   
+
+
+
+
+
+
+

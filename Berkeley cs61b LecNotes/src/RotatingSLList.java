@@ -9,8 +9,8 @@ public class RotatingSLList<Item> extends SLList<Item> {
 
     /** Shifts 1 position right to the list */
     public void rotateRight(){
-        Item X = removeLast();
-        addFirst(X);
+        // Item X = removeLast();
+        // addFirst(X);
     }
 
 }

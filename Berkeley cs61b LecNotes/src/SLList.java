@@ -6,7 +6,7 @@
 
 /* The Generic List part; if the IntNode was declared, the data type int can not be modified */
 /* Initialize it once at the top */
-public class SLList<Item>  implements List61B<Item> {
+public class SLList<Item> /* implements List61B<T> */{
     // The content in the angle brace here is a placeholder
     /* Change the "public" instance variable into private
     * ?: access control;
@@ -82,7 +82,7 @@ public class SLList<Item>  implements List61B<Item> {
         }
         return 1 + sizeHelper(p.next);
     } */
-
+/*
    @Override
     public Item removeLast() {
         Item X = get(size() - 1);
@@ -96,6 +96,8 @@ public class SLList<Item>  implements List61B<Item> {
         size -= 1;
         return X;
     }
+
+
     public Item removeFirst() {
         Item X = getFirst();
         sentinel.next = sentinel.next.next;
@@ -106,6 +108,8 @@ public class SLList<Item>  implements List61B<Item> {
     public static void main(String[] args){
 
     }
+
+ */
 }
 /**
  * Way 1: Access Restriction:

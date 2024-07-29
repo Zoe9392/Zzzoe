@@ -14,7 +14,8 @@ public class VengefulList<Item> extends SLList<Item> {
         deletedItems = new SLList<Item>();
     } // Compiler Error without the new constructor
     /* Note the private access control ; and the use of calling super class */
-    @Override
+
+    /* @Override
     public Item removeLast() {
         Item X = super.removeLast();
         deletedItems.addFirst(X);
@@ -27,10 +28,10 @@ public class VengefulList<Item> extends SLList<Item> {
         deletedItems.addFirst(Y);
         return Y;
     }
-
+*/
     /** Prints the deleted items */
     public void printLostItems() {
-        deletedItems.print();
+        //deletedItems.print();
     }
 
     public static void main (String[] args) {

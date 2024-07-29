@@ -28,23 +28,23 @@
 
 public interface List61B<Item> {
     /** Inserts Item x to the back of the List */
-    public void addLast (Item x); // Be sure to use semicolons instead of brackets "{ }"
+    void addLast (Item x); // Be sure to use semicolons instead of brackets "{ }"
     /** Insets Item y at the front of the List */
-    public void addFirst (Item y);
+    void addFirst (Item y);
     /** Returns the first item in the list */
-    public Item getFirst();
+    Item getFirst();
     /** Returns the last item in the list */
-    public Item getLast();
+    Item getLast();
     /** Deletes the last item in the list and returns it */
-    public Item removeLast();
+    Item removeLast();
     /** Returns the item at index pos */
-    public Item get (int pos);
+    Item get (int pos);
     /** Inserts the item at index pos in the list */
-    public void insert(Item X, int pos);
+    void insert(Item X, int pos);
     /** Returns the size of the whole list */
-    public int size();
+    int size();
     /** Prints each element in the list */
-    default public void print() {
+    default void print() {
         for(int i = 0; i < size(); i++){
             System.out.print(get(i) + "");
         }

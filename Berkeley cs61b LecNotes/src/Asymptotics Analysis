@@ -1,0 +1,27 @@
+Asymptotic Analysis:
+Run time of operating a program ?
+NO actual time to count ---> count the operations ---> scale the runtime ---> order of the growth
+
+Simplification of scaling the runtime:
+"cost model" of a program --- focus on only one operation of the program
+     highest growth term , and ignore lower terms nad multiplicative constants
+     Figure out the order of the growth for the count of representative operation
+
+Big Theta and Big Oh notation:
+--- Worst Case: big theta notation
+
+R(N) belongs to Theta(f(N))
+k_1f(N) <= R(N) <= k_2*f(N) [a sandwich position]
+
+--- Best Case:
+R(N) <= k_2 * f(N)
+
+Big Theta: Order of growth is f(N)
+Big Oh: Order of growth is less than or equal to f(N)
+
+O is used as upper bounds of growth function.
+
+--------------------------------------------------------------------------------------------------
+Disjoint Sets:
+The connectivity of two sets
+

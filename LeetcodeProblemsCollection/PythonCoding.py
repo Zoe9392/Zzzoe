@@ -1,5 +1,5 @@
 """
-Name: Jump Game  No.55 Level: Medium 
+Name: Jump Game  No.55 Level: Medium  Selected: 13/150 
 
 You are given an integer array nums. 
 You are initially positioned at the array's first index, and each 
@@ -34,8 +34,8 @@ class canJump:
         targetIndex = 0
         # Starts with the goal position 
         for i in range(len(nums)-2,-1,-1):
-            # nums[i] + i means the maximum position you can ump to when 
-            # standing at position i; if nums[i] + i >= startIndex, it 
+            # nums[i] + i means the maximum position you can jump to when 
+            # standing at position i; if nums[i] + i >= currPos, it 
             # means that the current position at currPos can be achieved 
             # when standing at index i    
             if nums[i] + i >= currPos:
@@ -76,10 +76,42 @@ Constraints:
     it is guaranteed that you can reach nums[n-1]
     0 <= nums[i] <= 1000
     1 <= nums.length <= 1000
+Examples: 
+    input: [2,4,1,1,3],[2,0,0],[2,3,0,1,4],[0],[7,0,9,6,9,6,1,7,9,0,2,9,0,3]
+    output: 2, 1, 2, 0, 2
+    
 """
 class canJump2:
     def Attempt1(self,nums):
-        return 
+        steps = [nums[i] + i for i in range(len(nums))]
+        index, Ind, jumps = 0,0,0
+        # 1- jump condition:  can reach the last element of nums within on jump 
+        if nums[0] >= len(nums) - 1 and len(nums) > 1:
+            jumps = 1
+        # 0 - jump condition: Born at Rome. The first element is the last element
+        elif len(nums) == 1:
+            jumps = 0 
+        # General condition
+        else:
+            while index > 0:
+                # Stopping condition of the while-loop 
+                if index >= len(nums) - 1:
+                    break 
+                Ind = max(steps[index + 1: steps[index] + 1])
+                jumps += 1 
+                # case 1: Check whether it can achieve directly without more jumps
+                if Ind >= len(nums) - 1 and index < len(nums) - 1:
+                    jumps += 1
+                    break
+                # case 2: Update the index. It involves to search the next stepping stone  
+                else:
+                    for j in range(index+1,steps[index] + 1):
+                        if steps[j] == Ind:
+                            index = j
+        return jumps 
+
+# Attempt 1: Accepted with bad performance of space complexity. Submit 8 times to eliminate bugs 
+#       2 times to optimize this problem. Space Complexity: O(N) ; Runtime Complexity : O(N)
 
 
 

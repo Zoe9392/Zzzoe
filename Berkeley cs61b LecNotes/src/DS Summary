@@ -22,6 +22,22 @@ S.add("Lagos");                          ||          S.add("Lagos")
 Objects
 All classes are hyponyms of Object.
 
+----------------------------------------------------------------------------------
+Abstract Data Type:
+1. In-Class: List61B (AList, SLList) ; In-projects: Deque(Array Deque, LinkedListDeque)
+            DisjointSets (ListOfSetsDS, QuickFindDS, QuickUnionDS WeightedQuickUnionDS)
+2. Stack:
+        push(int x): puts on top of the stack ; int pop(): removes and returns the top item from the stack
+                                                Last-In-Last-Out
+3. In java.util ----- Collections
+        List, Set, Map (as dictionary in python )
+   in java libraries: (LinkedList,ArrayList) ---> List; (HashSet, TreeSet) ---> Set;
+                      (HashMap, TreeMap) ---> Map
+
+
+
+
+
 
 
 

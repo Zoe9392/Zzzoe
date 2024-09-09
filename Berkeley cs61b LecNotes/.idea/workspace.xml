@@ -42,31 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-17",
-    "last_opened_file_path": "C:/Users/Administrator/cs61b/fa22-s778/proj1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/cs61b/fa22-s778/lab07&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ],
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\PROJ\Zzzoe\Berkeley cs61b LecNotes\src" />
@@ -243,7 +243,38 @@
       <workItem from="1722063436163" duration="367000" />
       <workItem from="1722083362429" duration="621000" />
       <workItem from="1722224697333" duration="1541000" />
-      <workItem from="1722235428566" duration="1199000" />
+      <workItem from="1722235428566" duration="1646000" />
+      <workItem from="1722255564686" duration="382000" />
+      <workItem from="1722414829611" duration="1278000" />
+      <workItem from="1722437759525" duration="332000" />
+      <workItem from="1722483158162" duration="1017000" />
+      <workItem from="1722502524459" duration="719000" />
+      <workItem from="1722605837576" duration="2603000" />
+      <workItem from="1722667105593" duration="6814000" />
+      <workItem from="1722737806630" duration="505000" />
+      <workItem from="1723004255730" duration="2668000" />
+      <workItem from="1723015782340" duration="5570000" />
+      <workItem from="1723098824989" duration="633000" />
+      <workItem from="1723131445994" duration="1244000" />
+      <workItem from="1723185587762" duration="906000" />
+      <workItem from="1723274754303" duration="4747000" />
+      <workItem from="1723357560847" duration="682000" />
+      <workItem from="1723444779532" duration="1376000" />
+      <workItem from="1723607418171" duration="1063000" />
+      <workItem from="1723626213703" duration="748000" />
+      <workItem from="1723984620956" duration="398000" />
+      <workItem from="1724120303265" duration="1109000" />
+      <workItem from="1724125555812" duration="1102000" />
+      <workItem from="1724388465093" duration="1330000" />
+      <workItem from="1724395367636" duration="1501000" />
+      <workItem from="1724568911997" duration="766000" />
+      <workItem from="1724591220884" duration="1203000" />
+      <workItem from="1724826588224" duration="1856000" />
+      <workItem from="1724845859504" duration="1068000" />
+      <workItem from="1725000890150" duration="593000" />
+      <workItem from="1725021826353" duration="1043000" />
+      <workItem from="1725157023061" duration="3715000" />
+      <workItem from="1725173504716" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary="Rough Notes in week1">
       <created>1717599904486</created>

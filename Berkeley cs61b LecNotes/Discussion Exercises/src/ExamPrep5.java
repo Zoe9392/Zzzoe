@@ -10,6 +10,7 @@ public class ExamPrep5 {
             this.list = l;
             this.filter = filter;
         }
+
         @Override
         public Iterator<T> iterator(){
             return new FilteredListIterator(list,filter);

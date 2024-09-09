@@ -1,0 +1,33 @@
+Involvement of using Hashing :
+
+
+
+Hash Codes: (via Wolfram Alpha) “projects a value from a set with many (or even an infinite number of)
+        members to a value from a set with a fixed number of (fewer) members.”
+
+Two Main Challenges in Hashing:
+ 1. Hashing Collisions
+ 2. Computing a hash code
+
+ Several Important things:
+ Hashing table resizing --- Double the size of bucket when N/M >= 1.5 (N is the number of items and M is
+                                                    the number of buckets)
+ [
+    it is in terms of runtime analysis to optimize the current hashing table: Theta(Q) to Theta(1) which
+ is a constant;
+
+    separate chaining in hash table with/without resizing
+  
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
